@@ -1,0 +1,23 @@
+.Contactmain
+{
+    margin-top: 4rem;
+    
+}
+@media (max-width:272px) {
+    #dangerbtn
+    {
+        margin-top: 1rem;
+        width: 100%;
+        margin-left:0rem !important;
+    }
+    
+}
+
+@media (max-width:272px) {
+    #datasubrbtn
+    {
+     margin: 0;
+        width: 100%;
+    }
+    
+}

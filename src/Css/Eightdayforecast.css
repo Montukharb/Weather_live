@@ -1,0 +1,70 @@
+#eightdayforecast-list {
+  width: 100%;
+  padding: 0rem;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  /* padding-top: 1rem; */
+  padding-left: 0rem;
+  background-color: rgb(211, 211, 211);
+  color: black;
+  border: none;
+}
+#eightdayforecast-list:hover {
+  background-color: white;
+  border: 1px solid rgb(154, 154, 154);
+}
+#eightdayforecast-list:active {
+  background-color: blue;
+  color: white;
+}
+
+#listdata {
+  padding-top: 0.1rem;
+  margin-bottom: 0;
+}
+#img1 {
+  width: 1.8rem;
+  margin-left: 1rem;
+  margin-right: 0.2rem;
+}
+#rain {
+  margin-left: 3rem;
+}
+#listview span {
+  margin-left: 2.5rem;
+}
+#checksky {
+  color: black;
+  font-size: 1.3rem;
+  font-weight: 600;
+}
+#highlow {
+  margin-left: 3rem;
+}
+#table {
+  word-break: break-all;
+  margin-left: 2.2rem;
+}
+#head {
+  color: rgb(69, 69, 69);
+}
+table thead tr th {
+  padding: 0.4rem;
+}
+table tbody tr td {
+  padding: 0.4rem;
+}
+@media (max-width: 545px) {
+  #table {
+    overflow: scroll;
+    margin-left: 0px;
+    width: 25rem;
+  }
+  #card {
+    border: none;
+  }
+  table thead tr th {
+    padding: 0px;
+  }
+}

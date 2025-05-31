@@ -1,0 +1,17 @@
+.AskAQuestionmain{
+    margin-top: 4rem;
+    word-break: break-all;
+}
+#textarea
+{
+    width: 100%;
+}
+textarea{
+    outline: none;
+    border-radius: 4px;
+    resize: none;
+}
+textarea:focus {
+    border: 2px solid rgb(12, 0, 124) !important;
+    box-shadow: 0px 0px 8px 0px rgb(0, 17, 255);
+  }

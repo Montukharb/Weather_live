@@ -1,0 +1,39 @@
+.faqmain {
+  margin: 4rem;
+  word-break: break-all;
+}
+#plusicon {
+  width: 3rem;
+}
+#plubtn {
+  text-align: left;
+  background-color: transparent;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  color: rgb(0, 19, 189);
+  border-bottom: 2px solid black;
+  border-radius: 0;
+}
+#plubtn {
+  display: flex;
+  justify-content: space-between;
+}
+#plustext
+{
+font-weight: 500;
+}
+.data123
+{
+    margin: 0.7rem 0 0.7rem 0;
+    padding-left: 0.7rem;
+    word-break: break-all;
+    border-left: 2px solid rgb(0, 10, 208);
+    color: black;
+}
+#plusid {
+  font-size: 1.2rem;
+  font-weight: 800 !important;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}

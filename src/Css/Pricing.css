@@ -1,0 +1,26 @@
+.pricingmain {
+  margin-top: 4rem;
+  font-size: 1rem;
+  font-weight: 400;
+  color: black;
+}
+.oncalapirow {
+  background-color: aliceblue;
+  justify-content: space-around;
+  padding: 2rem 0 2rem 0;
+}
+.oncalapirow li:nth-child(1) {
+  list-style-type: disc;
+}
+
+.oncalapirow li {
+  list-style-type: circle;
+}
+.subscribe {
+  background-color: red;
+  color: white;
+  border-radius: 21px;
+  border: 1px solid red;
+  padding: 0.2rem 0 0.2rem 0;
+  width: 8rem;
+}

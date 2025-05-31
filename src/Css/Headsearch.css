@@ -1,0 +1,69 @@
+.Headsearchmain {
+  margin-top: 4rem;
+}
+#headicty {
+  background-color: rgb(255, 255, 255) !important;
+  padding: 0.5rem 1rem 0.5rem 1rem;
+  width: 80%;
+  border-radius: 4px 0 0 4px;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  font-size: large;
+  border: 1px solid rgb(195, 195, 195);
+}
+@media (max-width: 559px) {
+  #headicty {
+    width: 100%;
+  }
+  #headsebtn {
+    width: 100% !important;
+    margin-top: 1rem;
+    border-radius: 4px !important;
+  }
+}
+#sebutnparent {
+  width: 100%;
+}
+#headsebtn {
+  border-radius: 0px 4px 4px 0px;
+  border: 1px solid rgb(166, 166, 166);
+  color: white;
+  width: 20%;
+  font-size: large;
+  padding: 0.5rem 1rem 0.5rem 1rem;
+  background-color: #0800ff;
+  transition: all 0.3s;
+}
+#headsebtn:hover {
+  background-color: rgb(0, 0, 58);
+}
+#headsebtn:active {
+  transition: none;
+  background-color: rgb(102, 255, 0);
+  color: black;
+}
+#hebigcontci {
+  background-color: red;
+  padding: 4rem 0 4rem 0;
+}
+#countryimage
+{
+    width: 2rem !important;
+    margin-left: 0.5rem;
+}
+#countryimage2
+{
+  
+    width: 15rem !important;
+    margin-left: 0.5rem;
+
+}
+.wrdiv3 {
+  padding: 0.5rem;
+}
+.wrdiv3 iframe {
+  width: 100%;
+  min-height: 50rem;
+  border-radius: 4px;
+  box-shadow: 0px 0px 10px 0.5px rgb(209, 209, 209);
+}

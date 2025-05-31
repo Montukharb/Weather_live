@@ -1,0 +1,14 @@
+.Technologymain {
+  margin-top: 4rem;
+  word-break: break-all;
+}
+.undeconst {
+  width: 60rem;
+  padding-top: 10%;
+}
+.undeconpar {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}

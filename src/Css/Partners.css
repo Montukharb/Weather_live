@@ -1,0 +1,23 @@
+.partnersmain
+{
+    margin-top: 4rem;
+    word-break: break-all;
+}
+.prtner1row
+{
+justify-content: space-around;    
+}
+#git1
+{
+    background-color: #FCF4ED;
+    color: black;
+    border-left: 4px solid red;
+    padding: 1rem 0 1rem 2rem;
+}
+a{
+    color: red;
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: 600;
+    
+}

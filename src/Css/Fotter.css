@@ -1,0 +1,45 @@
+#textdecoration {
+  text-decoration: none;
+  list-style-type: none;
+}
+#stop {
+  background-color: rgb(16, 0, 68);
+}
+.playapp {
+  width: 9rem;
+  height: 4rem;
+}
+.shortlogo {
+  height: 8rem;
+  border-radius: 4px;
+}
+.reserved {
+  background-color: rgb(12, 0, 61);
+  color: white;
+  padding: 0.2rem;
+  text-align: center;
+}
+
+#sociallink {
+  margin-left: 2rem;
+}
+#sociallink:first-child {
+  color: red;
+}
+
+#sociallink:nth-child(2) {
+  color: white;
+}
+
+#sociallink:nth-child(3) {
+  color: white;
+}
+#sociallink:nth-child(4) {
+  color: red;
+}
+#sociallink:nth-child(5) {
+  color: white;
+}
+#sociallink:nth-child(6) {
+  color: greenyellow;
+}

@@ -1,0 +1,119 @@
+.Aboutusmain {
+  margin-top: 4rem;
+  font-family: "Space Grotesk", Arial, sans-serif !important;
+  word-break: break-all;
+}
+.globe {
+  width: 27rem;
+}
+.globe2 {
+  width: 27rem;
+}
+.about2cont {
+  background-image: url("../Image/peakpx.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.aboutcont3 {
+  background-color: red;
+  padding: 2rem;
+}
+.abicon {
+  width: 6rem;
+  border-radius: 50%;
+}
+#abicdata {
+  color: white;
+  font-weight: bold;
+  font-size: large;
+}
+.durarow div {
+  margin: 5%;
+}
+@media (max-width: 767px) {
+  .durarow div {
+    margin: 1%;
+  }
+  .durarow1 div {
+    margin: 1%;
+  }
+}
+.insicon {
+  border: 2px solid rgb(4, 0, 71);
+  box-sizing: border-box;
+  border-radius: 50%;
+  width: 6rem;
+  height: 6rem;
+}
+#incontent {
+  background-color: #f2f2f2;
+  padding: 3.5rem 0.5rem 0.5rem 0.5rem;
+  margin-top: -3rem;
+  border-radius: 4px;
+  box-shadow: 0px 0px 8px 0px rgb(198, 198, 198);
+  transition: all 0.3s;
+  min-height: 17rem;
+}
+#incontent:hover {
+  box-shadow: none;
+}
+.whykh {
+  padding: 0.8rem 0.5rem 0.8rem 1.2rem;
+  background-color: #f2f2f2;
+  margin-bottom: 1rem;
+  border-left: 3px solid red;
+}
+.mlcontab {
+  background-color: red;
+  padding: 2rem;
+}
+#immul li {
+  list-style-type: disc;
+  padding: 0;
+  font-size: large;
+  font-weight: bold;
+}
+.whereto {
+  padding: 3rem;
+  background-image: url("../Image//planet-earth-night-view-illuminated-orbit-dark-background-5k-6000x2500-8934.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+}
+#buyitembtn {
+  word-break: normal;
+  padding: 0.5rem;
+  border-radius: 21px;
+  background-color: white;
+  border: 2px solid rgb(255, 255, 255);
+  transition: all 0.3s;
+}
+@media (max-width: 767px) {
+  #buyitembtn {
+    margin-top: 1rem;
+  }
+}
+
+#buyitembtn2 {
+  word-break: normal;
+  padding: 0.5rem 1.5rem 0.5rem 1.5rem;
+  border-radius: 21px;
+  background-color: white;
+  border: 2px solid rgb(255, 255, 255);
+  margin-top: 1rem;
+  transition: all 0.3s;
+}
+#ifyou {
+  margin-top: 3rem;
+  background-color: black;
+  color: white;
+  padding: 4rem;
+}
+#buyitembtn:hover {
+  background-color: #0f007f;
+  color: white;
+}
+#buyitembtn2:hover {
+  background-color: #0f007f;
+  color: white;
+}
