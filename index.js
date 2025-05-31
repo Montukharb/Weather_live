@@ -3,7 +3,7 @@ const {server,app,express} = require ('./server/mainServer.js');
 const {routes} = require('./router/route.js');
 const cors = require('cors');
 const {mongooseConnect} = require('./database/Connection.js');
-const {sessionmiddleware} = require('../backend/sessions/session.js')
+const {sessionmiddleware} = require('./sessions/session.js')
 // define the middlewares
 app.use(express.json());
 app.use(express.urlencoded({extended:true}));
